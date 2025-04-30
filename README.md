@@ -27,4 +27,9 @@ To install the `getx_module_cli` globally, run the following command:
 
 ```bash
 dart pub global activate getx_module_cli
+```
+
+## Usage 
+
+getx_module_cli `module_name`
 
