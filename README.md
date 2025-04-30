@@ -12,15 +12,6 @@ The benefits of using this tool include:
 *   Reduces boilerplate code
 *   Saves time by automating the process
 
-lib/modules/home/
-├── bindings/
-│   └── home_binding.dart
-├── controllers/
-│   └── home_controller.dart
-├── views/
-│   └── home_view.dart
-└── providers/
-    └── home_provider.dart
 
 ## Notes
 Directory Creation: The tool will automatically create the required directories if they don’t exist.
