@@ -1,0 +1,25 @@
+name: getx_module_cli
+description: A CLI tool to generate GetX module structure (bindings, controllers, views, providers) for Flutter.
+version: 1.0.0
+homepage: https://github.com/alokmaurya281/getx_module_cli
+repository: https://github.com/alokmaurya281/getx_module_cli
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+executables:
+  getx_module_cli: main
+
+dependencies:
+  args: ^2.4.0
+
+# Recommended by pub.dev
+topics:
+  - flutter
+  - getx
+  - cli
+  - codegen
+
+
+
+# This is a CLI tool, so no need for the Flutter section
